@@ -1,2 +1,2 @@
 # chromaflow
-A flow model for 3D genome organization
+A flow model for 3D genome organization. In progress.
